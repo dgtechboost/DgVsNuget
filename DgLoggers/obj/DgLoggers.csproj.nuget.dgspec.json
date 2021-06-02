@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\dmitr\\source\\backend\\DgVsNuget\\DgLoggers\\DgLoggers.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1-prerelease",
       "restore": {
         "projectUniqueName": "C:\\Users\\dmitr\\source\\backend\\DgVsNuget\\DgLoggers\\DgLoggers.csproj",
         "projectName": "DgLoggers",
