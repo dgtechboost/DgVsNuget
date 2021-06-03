@@ -2,7 +2,7 @@
 
 namespace DgLoggers
 {
-    public class TextLogger
+    public class TextLogger : ITextLogger
     {
         public void Log(string text)
         {
